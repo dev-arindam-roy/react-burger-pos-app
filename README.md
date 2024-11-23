@@ -1,4 +1,4 @@
-# A POS Application for Coffee Shop using React
+# A POS Application for Burger Shop using React
 
 ## Check The Application
 [https://dev-arindam-roy.github.io/react-coffee-pos-app/](https://dev-arindam-roy.github.io/react-coffee-pos-app/)
